@@ -1,0 +1,121 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.image{
+    width: 100px;
+    height:50px;
+}
+.nav-link{
+    font-size: 20px;
+}
+.sign-in{
+    border:none;
+    border-radius:30px;
+    border-color: #3CB371;
+    width: 90px;
+    height: 40px;
+    color: white;
+    background-color:#3CB371;
+}
+header{
+    background: #F0FFF0;
+    height: 100vh;
+    width: 100%;
+}
+.learn{
+    color:#f8f4f2;
+}
+.text-color{
+    color:#3CB371;
+}
+.button{
+    border:none;
+    border-radius:30px;
+    border-color: #3CB371;
+    width: 200px;
+    height:50px;
+    color: white;
+    background-color:#3CB371;
+  
+}
+.book{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: #F0FFF0;
+    width: 200px;
+    height: 210px;
+    margin-right: 70px;
+    
+}
+.book:hover{
+    background-color: white;
+}
+.images{
+    width: 66px;
+    height: 85px;
+    left: 231px;
+    top: 672px;
+    margin: 25px 10px;
+
+}
+.container{
+    padding: 20px 40px;
+}
+.color{
+    color:gray;
+}
+.online-courses{
+    color: #413960;
+}
+.small{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.move-image{
+    padding-top:15px;
+    padding-left:15px;
+    height: 320px;
+    width: 320px;
+}
+.testimonial{
+    color:#000000;
+    font-weight: bold;
+}
+.man-image{
+    height:200%;
+}
+.card-title{
+    color:#413960;
+}
+.footer-image{
+    width: 25px;
+}
+.footer-image2{
+    width: 20px;
+    margin-left: 40px;
+}
+.human-image{
+    width: 200px;
+    float: right;
+    margin-right:30px0;
+}
+.container-section{
+    background-color: rgba(21,15,63,0.856);
+}
+.white{
+    color: white;
+}
+.white-one{
+    color:white;
+    font-weight: bold;
+
+}
+.footer-element{
+    text-align: center;
+}
